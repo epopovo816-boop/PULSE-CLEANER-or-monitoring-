@@ -1,0 +1,41 @@
+              💎
+            PULSE
+        System Center
+
+    Версия:        1.0.0
+    Разработчик:   Frisk Studios
+    Технологии:    Python • Tkinter • Psutil
+    Лицензия:      MIT License
+    Платформа:     Windows 10 / 11
+
+    © 2025 Frisk Studios. Все права свободны.
+         Сделано с 💜 и Python
+# ⚠ Disclaimer / Отказ от ответственности
+
+## English
+
+This software is provided "as is", without warranty of any kind.
+
+Frisk Studios is not responsible for any system damage,
+data loss, or other issues caused by using this software.
+
+Use at your own risk.
+
+This program only deletes temporary files and cache.
+It does NOT modify or delete Windows system files.
+
+---
+
+## Русский
+
+Данное программное обеспечение предоставляется «как есть»,
+без каких-либо гарантий.
+
+Frisk Studios не несёт ответственности за любые повреждения
+системы, потерю данных или другие проблемы, вызванные
+использованием данного программного обеспечения.
+
+Используйте на свой страх и риск.
+
+Программа удаляет только временные файлы и кэш.
+Системные файлы Windows НЕ затрагиваются.
