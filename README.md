@@ -20,6 +20,14 @@ A lightweight, fast, and ad-free system utility for Windows that combines cleani
 - **Internet** connection monitoring
 - System resource dashboard
 
+### 🔊 **Smart Voice Alerts**
+- Real-time audio notifications for system issues
+- CPU overload warnings (alerts every 1 minute if issue persists)
+- Temperature alerts to prevent hardware damage
+- Can be disabled in settings
+- Test alert feature for verification
+- Available in Russian and English
+
 ### 📚 **Built-in Handbook**
 - Quick reference guide
 - System information
@@ -64,6 +72,7 @@ A lightweight, fast, and ad-free system utility for Windows that combines cleani
 ✅ **Free** - 100% free, forever  
 ✅ **All-in-One** - Cleaner, monitor, and handbook in one app  
 ✅ **Simple** - Intuitive interface, easy to use  
+✅ **Smart Alerts** - Voice notifications to keep you informed  
 
 ---
 
