@@ -69,7 +69,24 @@ A lightweight, fast, and ad-free system utility for Windows that combines cleani
 
 ## 📸 Screenshots
 
-*Coming soon*
+### Main Dashboard & Autoload
+![Autoload](https://raw.githubusercontent.com/epopovo816-boop/PULSE-CLEANER-or-monitoring-/main/autoload.png)
+
+### System Monitoring
+Real-time monitoring of CPU, GPU, and system resources
+![Monitoring](https://raw.githubusercontent.com/epopovo816-boop/PULSE-CLEANER-or-monitoring-/main/monitoring.png)
+
+### System Cleaner
+Safe and efficient cleaning of temporary files and junk data
+![Cleaner](https://raw.githubusercontent.com/epopovo816-boop/PULSE-CLEANER-or-monitoring-/main/cleaner.png)
+
+### Disk Health Check
+Monitor your disk status and health
+![Disk Check](https://raw.githubusercontent.com/epopovo816-boop/PULSE-CLEANER-or-monitoring-/main/disk%20check.png)
+
+### DNS & Network Tools
+Manage DNS settings and network diagnostics
+![DNS](https://raw.githubusercontent.com/epopovo816-boop/PULSE-CLEANER-or-monitoring-/main/dns.png)
 
 ---
 
