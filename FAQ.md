@@ -89,6 +89,37 @@ The DNS tool allows you to:
 
 ---
 
+## 🔊 Voice Alerts
+
+### Can I disable voice alerts?
+Yes! You can turn off alerts in the settings menu. You can re-enable them anytime.
+
+### How often do alerts play?
+Critical alerts play once per minute if the issue persists. This prevents notification spam while keeping you informed. For example, if your CPU is overloaded, you'll hear a warning every minute until the issue is resolved.
+
+### Is there a test alert feature?
+Yes! You can test the alert system to verify your audio is working correctly before relying on it during system issues. This is useful when you first set up PULSE.
+
+### What kind of alerts does PULSE have?
+Currently, voice alerts warn about:
+- **CPU Overload** - When processor usage is critically high
+- **Temperature Issues** - When your system is getting too hot
+
+### In what languages are alerts available?
+Currently, voice alerts are available in:
+- Russian (Русский)
+- English
+
+### Why not more languages yet?
+Adding voice alerts requires:
+- Professional voice recordings
+- Quality audio processing
+- Testing across different systems
+
+We're planning to add more languages in future releases! If you'd like to help by providing voice recordings, please open an Issue to discuss.
+
+---
+
 ## Troubleshooting
 
 ### PULSE won't start
@@ -115,6 +146,13 @@ PULSE is designed to be lightweight. If you notice high RAM usage:
 - Update to the latest version
 - Close unnecessary programs
 - Restart PULSE
+
+### I can't hear voice alerts
+- Check your system volume
+- Make sure speakers/headphones are connected
+- Use the test alert feature to verify audio
+- Check if alerts are disabled in settings
+- Make sure your audio device is set as default
 
 ---
 
