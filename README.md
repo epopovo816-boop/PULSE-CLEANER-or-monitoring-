@@ -80,8 +80,8 @@ Real-time monitoring of CPU, GPU, and system resources
 Safe and efficient cleaning of temporary files and junk data
 ![Cleaner](https://raw.githubusercontent.com/epopovo816-boop/PULSE-CLEANER-or-monitoring-/main/cleaner.png)
 
-### Disk Health Check
-Monitor your disk status and health
+### Disk Space Usage
+View free and occupied disk space on your drives
 ![Disk Check](https://raw.githubusercontent.com/epopovo816-boop/PULSE-CLEANER-or-monitoring-/main/disk%20check.png)
 
 ### DNS & Network Tools
